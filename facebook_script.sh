@@ -1,4 +1,6 @@
 #!/bin/bash
+### Created by Ahmad Samra
+### Commited on April 27th 2014
 
 # JSON function to fetch the needed parameters from JSON string
 function JSONfinder {
